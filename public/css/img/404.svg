@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="435" height="201" viewBox="0 0 435 201">
+    <defs>
+        <path id="b" d="M94.792 79.622v19.625a1 1 0 0 1-1 1H82.596a1 1 0 0 0-1 1v20.337a1 1 0 0 1-1 1H53.76v-19.337a3 3 0 0 0-3-3H2.337V73.13a1 1 0 0 1 .16-.543l45.328-70.13a1 1 0 0 1 .84-.457h28.94L30.563 74.997a3 3 0 0 0 2.522 4.625H50.76a3 3 0 0 0 3-3V54.977h27.837v21.645a3 3 0 0 0 3 3h10.196zm60.089 16.436V30.526c0-2.846-2.617-4.269-5.852-4.269h-5.239c-3.234 0-4.851 1.423-4.851 4.27v67.53c0 2.847.313 4.27 3.548 4.27h5.844c3.65 0 6.55-2.072 6.55-6.27zm29.96-69.995v76.458c0 16.042-6.509 20.063-25.527 20.063h-25.809c-19.018 0-27.596-6.715-27.596-23.485V26.063C105.909 8.558 113.929 2 133.505 2h25.81c18.534 0 25.526 8.02 25.526 24.063zm105.605 53.56v20.624H278.2a1 1 0 0 0-1 1v21.337h-27.809v-17.451a3 3 0 0 0-2.883-2.998l-48.536-1.888V73.148a1 1 0 0 1 .16-.542l45.301-70.149a1 1 0 0 1 .84-.457H273.2l-47.082 72.996a3 3 0 0 0 2.52 4.626h17.754a3 3 0 0 0 3-3V54.977h27.81v21.645a3 3 0 0 0 3 3h10.245z"/>
+        <filter id="a" width="100.8%" height="102%" x="-.4%" y="-1%" filterUnits="objectBoundingBox">
+            <feOffset dx="2.4" dy="2.4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <path id="c" d="M64.962 17.502a13.403 13.403 0 0 0-4.559.866C58.781 7.802 49.69 0 39 0S19.219 7.802 17.597 18.368a13.22 13.22 0 0 0-4.559-.866C5.838 17.502 0 23.34 0 30.54c0 7.2 5.837 13.038 13.038 13.038h51.924c7.2 0 13.038-5.837 13.038-13.038 0-7.2-5.837-13.038-13.038-13.038z"/>
+        <filter id="d" width="106.4%" height="111.5%" x="-3.2%" y="-5.7%" filterUnits="objectBoundingBox">
+            <feOffset dx="3" dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <path id="e" d="M424.14 72.892a9.107 9.107 0 0 0-3.097.589 14.714 14.714 0 0 0-29.086 0 8.983 8.983 0 0 0-3.098-.589 8.86 8.86 0 1 0 0 17.719h35.282a8.86 8.86 0 1 0 0-17.719z"/>
+        <filter id="f" width="109.4%" height="116.9%" x="-4.7%" y="-8.4%" filterUnits="objectBoundingBox">
+            <feOffset dx="3" dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E2F2FF" fill-rule="nonzero" d="M336 150.812c-.005-47.707-29.063-90.618-73.402-108.395-44.34-17.777-95.05-6.847-128.097 27.608-33.047 34.456-41.79 85.514-22.085 128.975h213.259A116.463 116.463 0 0 0 336 150.812z"/>
+        <path stroke="#7BB0DA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M99 199h236M81 199.25h10M345 199h5"/>
+        <path fill="#CEE7FC" stroke="#7BB0DA" stroke-width="2" d="M167.799 139.622h-11.196a2 2 0 0 1-2-2v-22.645h-29.825v22.645a2 2 0 0 1-2 2h-17.735a2 2 0 0 1-1.681-3.084L151.439 62h-30.688a2 2 0 0 0-1.678.913l-45.399 70.075a2 2 0 0 0-.321 1.088v28.192h49.425a2 2 0 0 1 2 2v20.316h29.825v-20.316a2 2 0 0 1 2-2h11.196v-22.646zm58.082 17.436c0 3.429-2.091 5.269-5.852 5.269h-5.239c-3.76 0-5.851-1.84-5.851-5.27v-67.53c0-3.43 2.09-5.27 5.851-5.27h5.24c3.76 0 5.85 1.84 5.85 5.27v67.53zm31.96-71.995c0-15.449-9.027-23.063-27.527-23.063h-25.809c-18.5 0-27.526 7.614-27.526 23.063v76.458c0 15.449 9.027 23.063 27.526 23.063h25.81c18.499 0 27.526-7.614 27.526-23.063V85.063zm105.566 54.56h-11.196a2 2 0 0 1-2-2v-22.646h-29.825v22.645a2 2 0 0 1-2 2h-17.735a2 2 0 0 1-1.68-3.084L347.047 62H316.36a2 2 0 0 0-1.679.913l-45.398 70.075a2 2 0 0 0-.322 1.088v28.192h49.425a2 2 0 0 1 2 2v20.316h29.825v-20.316a2 2 0 0 1 2-2h11.196v-22.646z"/>
+        <use fill="#000" filter="url(#a)" transform="translate(72 61)" xlink:href="#b"/>
+        <g fill-rule="nonzero" stroke="#7BB0DA" stroke-linecap="round" stroke-width="2">
+            <path d="M257 151h-10.5M257 155h-18.5"/>
+        </g>
+        <g fill-rule="nonzero" stroke="#7BB0DA" stroke-linecap="round" stroke-width="2">
+            <path d="M178 87h10.5M178 91h18.5"/>
+        </g>
+        <g fill-rule="nonzero" stroke="#7BB0DA" stroke-linecap="round" stroke-width="2">
+            <path d="M288 106h10.5M285 110h18.5"/>
+        </g>
+        <g fill-rule="nonzero" stroke="#7BB0DA" stroke-linecap="round" stroke-width="2">
+            <path d="M111 76h10.5M109 80h18.5"/>
+        </g>
+        <g fill-rule="nonzero" stroke="#7BB0DA" stroke-linecap="round" stroke-width="2">
+            <path d="M154 167h-10.5M154 171h-18.5"/>
+        </g>
+        <path stroke="#7BB0DA" stroke-linecap="round" stroke-width="2" d="M422 74.5c-2.667 1-4.667 2.667-6 5"/>
+        <g fill-rule="nonzero" stroke-linejoin="round" transform="translate(1 1)">
+            <use fill="#E2F2FF" xlink:href="#c"/>
+            <use fill="#000" filter="url(#d)" xlink:href="#c"/>
+            <use stroke="#7BB0DA" stroke-width="2" xlink:href="#c"/>
+        </g>
+        <g fill-rule="nonzero" stroke-linejoin="round" transform="translate(1 1)">
+            <use fill="#E2F2FF" xlink:href="#e"/>
+            <use fill="#000" filter="url(#f)" xlink:href="#e"/>
+            <use stroke="#7BB0DA" stroke-width="2" xlink:href="#e"/>
+        </g>
+        <path stroke="#7BB0DA" stroke-linecap="round" stroke-width="2" d="M61 19.5c-3 1-5.333 3.167-7 6.5"/>
+    </g>
+</svg>

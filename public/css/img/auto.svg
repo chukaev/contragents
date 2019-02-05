@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="121" viewBox="0 0 126 121">
+    <defs>
+        <path id="b" d="M67 7.498V39.66c0 4.14-3.36 7.498-7.506 7.498l-25.994.108L18.273 64V47.266H7.506C3.36 47.266 0 43.909 0 39.768V7.606C0 3.466 3.36.108 7.506.108L59.493 0C63.639 0 67 3.357 67 7.498z"/>
+        <filter id="a" width="103%" height="106.2%" x="-1.5%" y="-1.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.161370863 0 0 0 0 0.419820842 0 0 0 0 0.722576531 0 0 0 1 0"/>
+        </filter>
+        <path id="d" d="M59 6.603v28.321a6.607 6.607 0 0 1-6.61 6.603l-22.89.095-13.41 14.736V41.622H6.61A6.607 6.607 0 0 1 0 35.02V6.7A6.607 6.607 0 0 1 6.61.094L52.39 0A6.607 6.607 0 0 1 59 6.603z"/>
+        <filter id="c" width="103.4%" height="107.1%" x="-1.7%" y="-1.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.878431373 0 0 0 0 0.619607843 0 0 0 0 0.243137255 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <path fill="#EDEFF0" d="M121 58v.125a58.056 58.056 0 0 1-2.071 15.291 57.638 57.638 0 0 1-4.226 10.895v.002a57.87 57.87 0 0 1-4.557 7.476 57.996 57.996 0 0 1-8.023 9.027 56.48 56.48 0 0 1-6.35 5.04 57.627 57.627 0 0 1-19.062 8.513A58.167 58.167 0 0 1 63.002 116c-1.566 0-3.116-.062-4.648-.185a57.555 57.555 0 0 1-15.15-3.283 58.093 58.093 0 0 1-23.914-16.408 57.982 57.982 0 0 1-10.18-16.64A57.843 57.843 0 0 1 5 58C5 25.967 30.967 0 63 0c3.639 0 7.199.336 10.653.975 2.093.391 4.147.89 6.155 1.499a57.552 57.552 0 0 1 11.564 4.929 58.25 58.25 0 0 1 24.53 26.792 56.708 56.708 0 0 1 1.635 4.022 57.252 57.252 0 0 1 1.14 3.482 53.604 53.604 0 0 1 .9 3.482c.197.864.372 1.733.526 2.612.05.27.095.54.14.812v.007c.127.769.236 1.548.33 2.33a51.663 51.663 0 0 1 .283 2.958A57.39 57.39 0 0 1 121 58z"/>
+        <g transform="translate(0 4)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#b"/>
+            <circle cx="16.5" cy="24.5" r="4.5" fill="#FFF"/>
+            <circle cx="33.5" cy="24.5" r="4.5" fill="#FFF"/>
+            <circle cx="49.5" cy="24.5" r="4.5" fill="#FFF"/>
+        </g>
+        <g transform="matrix(-1 0 0 1 126 62)">
+            <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+            <use fill="#FFB74D" fill-rule="evenodd" xlink:href="#d"/>
+            <circle cx="14.53" cy="21.575" r="3.963" fill="#FFF"/>
+            <circle cx="29.5" cy="21.575" r="3.963" fill="#FFF"/>
+            <circle cx="43.59" cy="21.575" r="3.963" fill="#FFF"/>
+        </g>
+    </g>
+</svg>

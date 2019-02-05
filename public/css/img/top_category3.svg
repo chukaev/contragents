@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="125" viewBox="0 0 125 125">
+    <defs>
+        <circle id="a" cx="62.5" cy="62.5" r="62.5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#4DB6AC" xlink:href="#a"/>
+        <path fill="#45A69D" d="M71.418 13.39l45.486 45.468v70.647H25.99V58.873z" mask="url(#b)" transform="rotate(-45 71.447 71.447)"/>
+        <g mask="url(#b)">
+            <path stroke="#FFF" stroke-width="2" d="M29.75 30.75h64.5v64.5h-64.5z"/>
+            <path fill="#26A69A" d="M30.75 31.75h62.5v62.5h-62.5z"/>
+            <path stroke="#FFF" stroke-width="2" d="M78.037 31.012l15.905 15.74m0 32.282l-15.905 15.97m-31.426 0l-16.87-15.97m0-32.281l16.87-15.741"/>
+            <path stroke="#FFF" stroke-linecap="square" stroke-width="2" d="M62.446 30.991v63.493M93.28 62.995H31.613"/>
+            <path stroke="#FFF" stroke-width="2" d="M52.72 53.09l2.982-6.49 6.865 2.892 6.904-2.513 2.474 6.463 6.79 2.86-3.06 6.883 2.528 6.606-6.674 2.72-2.96 6.66-6.46-2.821-6.92 2.82-3.082-7.19-6.719-2.934 2.826-6.15-2.826-6.595 7.332-3.211z"/>
+            <path stroke="#FFF" stroke-width="2" d="M39.786 40.786v13.692l-8.512 8.425 8.512 8.436v13.875h14l8.66 8.582 8.446-8.582h13.322V71.675l8.632-8.772-8.632-8.762V40.786H71.056l-8.61-8.74-8.828 8.74H39.786z"/>
+            <path stroke="#FFF" stroke-linecap="square" stroke-width="2" d="M30.463 31.504l63.211 63.28M30.297 94.577L93.74 31.445"/>
+            <path fill="#45A69D" stroke="#FFF" stroke-width="2" d="M62.286 68.357a5.357 5.357 0 1 0 0-10.714 5.357 5.357 0 0 0 0 10.714z"/>
+        </g>
+    </g>
+</svg>

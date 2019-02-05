@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+    <defs>
+        <circle id="a" cx="46" cy="46" r="46"/>
+        <path id="c" d="M12.9.8H.2L9.7 22l3.1-7.3 7.5 2.6z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#34495E" fill-rule="nonzero" xlink:href="#a"/>
+            <path fill="#203549" fill-rule="nonzero" d="M89.973 59.657L54.72 24.46 31.196 47.839l6.606 7.726-7.398 9.735 26.271 26.287c15.675-4.373 29.16-16.16 33.298-31.93z" mask="url(#b)"/>
+        </g>
+        <g transform="translate(28 22)">
+            <g transform="translate(15 26)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <use fill="#FF9D4D" fill-rule="nonzero" xlink:href="#c"/>
+                <path fill="#E97F27" fill-rule="nonzero" d="M-4.3.8l-7.3 16.5 7.5-2.6L-1 22 8.5.8z" mask="url(#d)"/>
+            </g>
+            <path fill="#FF8E31" fill-rule="nonzero" d="M9.7 26.8L2.4 43.3l7.5-2.6L13 48l9.5-21.2z"/>
+            <path fill="#F2F9FF" fill-rule="nonzero" d="M35 17.1c0 1.4-2.2 2.6-2.5 3.9-.4 1.4.9 3.4.2 4.7-.7 1.2-3.2 1.1-4.1 2.1-1 1-.9 3.4-2.1 4.1-1.2.7-3.3-.6-4.7-.2-1.3.4-2.5 2.5-3.9 2.5S15.3 32 14 31.7c-1.4-.4-3.4.9-4.7.2-1.2-.7-1.1-3.2-2.1-4.1-1-1-3.4-.9-4.1-2.1-.7-1.2.6-3.3.2-4.7-.4-1.3-2.5-2.5-2.5-3.9s2.2-2.6 2.5-3.9c.3-1.4-1-3.4-.3-4.6.7-1.2 3.2-1.1 4.1-2.1 1-1 .9-3.4 2.1-4.1 1.2-.7 3.3.6 4.7.2 1.4-.4 2.5-2.6 4-2.6 1.4 0 2.6 2.2 3.9 2.5 1.4.4 3.4-.9 4.7-.2 1.2.7 1.1 3.2 2.1 4.1 1 1 3.4.9 4.1 2.1.7 1.2-.6 3.3-.2 4.7.3 1.3 2.5 2.5 2.5 3.9z"/>
+            <circle cx="17.9" cy="17.1" r="9.9" fill="#FF8E31" fill-rule="nonzero"/>
+        </g>
+    </g>
+</svg>

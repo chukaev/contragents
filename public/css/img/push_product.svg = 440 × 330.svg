@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="330px" viewBox="0 0 440 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>push_product.svg = 440 × 330</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.9153441,1.10146187 C29.4404215,0.367153956 40.6353068,9.57507191e-16 52.5,0 C64.3646934,0 75.559579,0.367153972 86.0846566,1.10146191 L86.0846565,1.10146252 C96.2698433,1.81205714 104.284648,10.0803532 104.677853,20.2827237 C104.892618,25.8551492 105,31.4275746 105,37 C105,43.9922362 104.08112,50.9844723 102.243361,57.9767085 L102.243361,57.9767085 C100.094959,66.1508689 93.0401819,72.0921604 84.6196956,72.8187563 C75.4934429,73.6062521 64.7868778,74 52.5,74 C40.2131213,74 29.5065554,73.606252 20.3803023,72.8187561 L20.3803024,72.8187543 C11.9598168,72.0921583 4.90504061,66.1508672 2.75663839,57.9767075 C0.918879463,50.9844717 7.78916737e-16,43.9922358 0,37 C0,31.4275744 0.10738232,25.8551489 0.322146961,20.2827233 L0.32214728,20.2827233 C0.715352796,10.0803527 8.7301572,1.81205648 18.9153441,1.10146187 Z" id="path-1"></path>
+    </defs>
+    <g id="web-elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="push_product.svg-=-440-×-330">
+            <g id="logo_icon" transform="translate(168.000000, 114.000000)">
+                <g id="Group-3" transform="translate(0.000000, 28.000000)">
+                    <g id="Ol-Copy">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#DEE0E5" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <path d="M73,19 C73,8.50658975 63.5979797,0 52,0 C40.4020203,0 31,8.50658975 31,19" id="Oval" stroke="#DEE0E5" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M73,85 C73,74.5065898 63.5979797,66 52,66 C40.4020203,66 31,74.5065898 31,85" id="Oval-Copy" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" transform="translate(52.000000, 75.500000) scale(1, -1) translate(-52.000000, -75.500000) "></path>
+                <circle id="Oval-2" fill="#FFFFFF" cx="30.5" cy="49.5" r="4.5"></circle>
+                <circle id="Oval-2-Copy" fill="#FFFFFF" cx="73.5" cy="49.5" r="4.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

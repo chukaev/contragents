@@ -1,0 +1,10 @@
+/*Sortable column names*/
+a.sortable-column {
+    color: black;
+    cursor: pointer;
+}
+
+a.sortable-column:hover {
+    color: #555;
+    cursor: pointer;
+}
